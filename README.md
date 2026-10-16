@@ -278,6 +278,7 @@ Consumer-facing AI assistants for everyday tasks, research, and conversation.
 - [Reve Image](https://reve.art) — Strong prompt adherence and photorealism. `#free` 🔥
 - [Krea AI](https://krea.ai) — Real-time AI generation and image enhancement tools. `#free`
 - [Seedream AI Studio](https://seedream4.video) — Multi-model platform by ByteDance (Seedream 5.0/4.5/4.0), ranked #1 in AI Image Arena. Up to 10 reference images + Kling 2.1 video generation. `#free` 🔥
+- [NailMoodLab](https://nailmoodlab.com/) — Nail-design reference images from prompts, palette, length and finish settings, with optional hand-photo preview; sign-in and plan limits apply. `#free`
 
 ### Image Editing & Enhancement
 
@@ -598,6 +599,7 @@ MCP is an open standard by Anthropic for connecting AI models to external data s
 - [Microsoft Designer](https://designer.microsoft.com) — AI-powered graphic design tool with DALL-E integration. `#free`
 - [Looka](https://looka.com) — AI logo and complete brand identity generator.
 - [Brandmark](https://brandmark.io) — AI-based logo design with brand kit generation.
+- [LogoMovo](https://logomovo.com/) — AI-assisted logo directions with editable symbols, typography and layout, plus SVG/PNG export; Studio requires an account and active paid plan.
 - [Napkin](https://napkin.ai) — Turn text into visual diagrams and infographics instantly. `#free`
 
 ### 3D Generation
