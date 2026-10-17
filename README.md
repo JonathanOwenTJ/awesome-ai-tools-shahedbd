@@ -238,6 +238,7 @@ Consumer-facing AI assistants for everyday tasks, research, and conversation.
 - [DeepL Write](https://www.deepl.com/write) — AI writing tool focused on improving clarity and natural style. `#free`
 - [Wordtune](https://wordtune.com) — Rewrite and rephrase sentences with deep context awareness. `#free`
 - [QuillBot](https://quillbot.com) — Paraphrasing, summarization, grammar checking, and citation tools. `#free`
+- [ResumePlot](https://resumeplot.com/) — AI-assisted resume rewriting and job tailoring with a structured English/Chinese editor; core editing is free, while the Free tier lists 5 AI edits/month after sign-in and 3 PDF exports/month.
 
 ### SEO & Long-Form Content
 
