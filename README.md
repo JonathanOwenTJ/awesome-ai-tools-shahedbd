@@ -291,6 +291,7 @@ Consumer-facing AI assistants for everyday tasks, research, and conversation.
 - [Lensa](https://prisma-ai.com/lensa) — AI avatar and portrait enhancement app with stylized filters.
 - [Magnific AI](https://magnific.ai) — AI upscaling and creative enhancement with intelligent hallucination.
 - [PhotoRestore.ai](https://photorestore.ai) — AI-powered restoration of old and damaged photos. Repairs scratches, tears, fading, and colorizes B&W images.
+- [DishVivid](https://dishvivid.com/) — Food-photo editing for menu and delivery images with local manual controls and optional AI scene edits; AI requires sign-in and available edits.
 
 ### Specialized Image Tools
 
@@ -299,6 +300,8 @@ Consumer-facing AI assistants for everyday tasks, research, and conversation.
 - [VectorArt.ai](https://vectorart.ai) — Create clean, scalable vector images with AI.
 - [Civitai](https://civitai.com) — Community hub for sharing and downloading Stable Diffusion models and LoRAs. `#free`
 - [OpenArt](https://openart.ai) — Search 10M+ AI-generated images and prompts for inspiration. `#free`
+- [PackScena](https://packscena.com/) — AI product-scene previews with a workspace and gallery workflow; invitation access, sign-in and available allowance are required.
+- [LookScene](https://lookscene.packscena.com/) — AI hairstyle, outfit and portrait-scene exploration from an adult user's own photo; invitation access, consent, sign-in and credits are required.
 
 ---
 
