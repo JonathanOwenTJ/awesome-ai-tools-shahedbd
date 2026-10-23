@@ -303,6 +303,7 @@ Consumer-facing AI assistants for everyday tasks, research, and conversation.
 - [OpenArt](https://openart.ai) — Search 10M+ AI-generated images and prompts for inspiration. `#free`
 - [PackScena](https://packscena.com/) — AI product-scene previews with a workspace and gallery workflow; invitation access, sign-in and available allowance are required.
 - [LookScene](https://lookscene.packscena.com/) — AI hairstyle, outfit and portrait-scene exploration from an adult user's own photo; invitation access, consent, sign-in and credits are required.
+- [Paper Texture](https://paper-texture.com/paper-texture-generator/) — AI paper-surface generation from descriptions, paper type, tone, intensity and proportions; each attempt uses the daily allowance, and design-use licensing applies. Operator-affiliated, AI-assisted suggestion.
 
 ---
 
