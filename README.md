@@ -758,6 +758,7 @@ MCP is an open standard by Anthropic for connecting AI models to external data s
 - [Anthropic Prompt Library](https://docs.anthropic.com/en/prompt-library) — Curated, tested prompts for Claude. `#free`
 - [Learn Prompting](https://learnprompting.org) — Free, open-source course on prompt engineering for all levels. `#opensource` `#free`
 - [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) — Curated list of prompt engineering resources and papers. `#free`
+- [NEON DUO Two-Person Dance Prompt Guide](https://a2oliteneon.xyz/guides/two-person-dance-prompt-guide) — Free educational checklist for role mapping, motion and camera constraints in duo-dance prompts; not a live generator. `#free`
 
 ---
 
